@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Configuration.Конфигурация" id="d49c1b70-09b6-4999-ba98-258001170063" configVersion="ca0287a3d0a23c4aa3647328c5fc521400000000"/>
+		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="846cba19-52f0-49e5-9ab1-31e7d2ed45ef.b" configVersion="5501bb9321d80944b77f1871719d5e6300000000"/>
+		<Metadata name="Constant.НаименованиеКонфигурации" id="fd2596c7-c1fd-4b55-87ae-2f9de0e02890" configVersion="34ee0701d71a8a4ab6d9eaf251d9123100000000"/>
+		<Metadata name="Language.Русский" id="f27a72b7-42f5-4800-aa85-a75e7dae0cb3" configVersion="a8dc2ba4bf989b4594557be77bbb011b00000000"/>
+		<Metadata name="Subsystem.Администрирование" id="ba04e1d4-b9df-43ca-b457-cc4ce3fcb48e" configVersion="201ee3ff98c6004884a61b38f37e4e7a00000000"/>
+		<Metadata name="Subsystem.ИнформацияОпрограмме" id="3463b00b-5b62-4bb2-8ba6-1114919dcaff" configVersion="8cc04b99830e4e4aa7e71b02344763b300000000"/>
+		<Metadata name="Subsystem.Отчеты" id="3b6baf38-24a0-40f0-bfd8-ca280c2480de" configVersion="1c2e9cf6e8de1e4eb3fde9061b7e327900000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
