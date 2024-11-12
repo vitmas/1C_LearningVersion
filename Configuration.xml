@@ -247,8 +247,16 @@
 			<Language>Русский</Language>
 			<Subsystem>Отчеты</Subsystem>
 			<Subsystem>Администрирование</Subsystem>
-			<Subsystem>ИнформацияОпрограмме</Subsystem>
+			<Subsystem>ОбщиеСправочникиИНастройки</Subsystem>
 			<Constant>НаименованиеКонфигурации</Constant>
+			<Constant>АдресЭлектроннойПочты</Constant>
+			<Catalog>Организации</Catalog>
+			<Catalog>Склады</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>Номенклатура</Catalog>
+			<Catalog>ОтветственныеЛица</Catalog>
+			<Enum>ВидыКонрагентов</Enum>
+			<Enum>ВидыНоменклатуры</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
